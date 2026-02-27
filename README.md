@@ -12,5 +12,5 @@ Relative results have been submitted to one journal.
 ###Achknowledgement
 
 Thanks to Guillaume Heller for sharing part of the code to have an idea for the low-level code.
-In this code, to improve readability, the ChatGPT OpenAI tool is used to provide part of the code documentation. 
+In this code, we use ChatGPT openAI to make the code more concise and easier to understand. 
 The design, idea, and its validation were implemented by the authors.
