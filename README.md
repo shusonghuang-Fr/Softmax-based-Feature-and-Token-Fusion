@@ -6,5 +6,6 @@ The code has been tested by our own multispectral images, the public dataset Pla
 Relative results have been submitted to one journal. 
 
 ###Achknowledgement
-In this code, to be more readable, the assistance of the ChatGPT OpenAI tool is used for part of the code documentation. 
+Thanks to Guillaume Heller for sharing part of the code to have an idea for the low-level code.
+In this code, to improve readability, the ChatGPT OpenAI tool is used to provide part of the code documentation. 
 The design, idea, and its validation were implemented by the authors.
