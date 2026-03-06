@@ -11,6 +11,6 @@ Relative results have been submitted to one journal.
 
 ###Achknowledgement
 
-Thanks to Guillaume Heller for sharing part of the code to have an idea for the low-level code.
+Thanks to Guillaume Heller for sharing part of the code to have an idea for the low-level code. The project is supported by the Grand-Est Region, France.
 In this code, we use ChatGPT openAI to make the code more concise and easier to understand. 
 The design, idea, and its validation were implemented by the authors.
