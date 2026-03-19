@@ -1,10 +1,10 @@
-Due to the test dataset being so large, we don't upload the dataset for testing. If you are interested, you can test your dataset with this code.
+Due to the large size of the test dataset, we do not offer an upload service for it. If you are interested, you can use this code to test your own dataset.
 
 ###Simple implementation: 
 
-1. Preparing image dimensions. The input image size should be a numpy array with shape (samples, 224, 224, 3),  where 224 * 224 is the number of pixels, and 3 is the number of channels.
-2. We can run the low-level model 'Step1_feature_extraction.py' for feature extraction, 'Step1_token.py' for token models.
-3. In the high level, using the pretrained model for token extraction, feature-token fusion, and further using train_step2_test.py
+1. Prepare the image size. The input image size should be a NumPy array of shape (samples, 224, 224, 3), where 224 * 224 is the number of pixels, and 3 is the number of channels.
+2. We can run the low-level model 'Step1_feature_extraction.py' for feature extraction, and run 'Step1_token.py' for token extraction.
+3. At higher levels, pretrained models are used for token extraction, feature-token fusion, and then train_step2_test.py is used to test.
 
 The code has been tested by our own multispectral images, the public dataset Plantvillage, opensource grapevine disease dataset from Kaggle, and the AI Challenge 2018.  
 Relative results have been submitted to one journal. 
