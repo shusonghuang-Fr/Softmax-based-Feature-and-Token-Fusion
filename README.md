@@ -10,7 +10,7 @@ The code has been tested by our own multispectral images, the public dataset Pla
 Relative results have been submitted to one journal. 
 
 ###Achknowledgement
-
-Thanks to Guillaume Heller for sharing part of the code to have an idea for the low-level code. The project is supported by the Grand-Est Region, France.
+We thank the Grand-Est Region, France, for funding the DASY project. The project is supervised by Alban Goupil, Eric Perrin, and Valeriu Vrabie.
+Thanks to Guillaume Heller for sharing part of the code to have an idea for the low-level code.
 In this code, we use ChatGPT openAI to make the code more concise and easier to understand. The code is checked.
 The design, idea, and its validation were implemented by the authors.
