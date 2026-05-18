@@ -136,7 +136,7 @@ x = Dense(256, activation="relu")(x)
 # x = Dense(64, activation="relu")(x)
 # x = Dropout(0.2)(x)
 
-predictions = Dense(6, activation="softmax")(x)
+predictions = Dense(5, activation="softmax")(x)
 
 # Step 4: Define the complete model
 model = Model(inputs=base_model.input, outputs=predictions)
